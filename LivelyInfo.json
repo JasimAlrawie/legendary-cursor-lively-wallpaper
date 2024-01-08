@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0",
+  "Title": "legendary cursor",
+  "Thumbnail": "prev.png",
+  "Preview": "prev.png",
+  "Desc": "legendary cursor",
+  "Author": "jasimdev",
+  "License": "MIT",
+  "Contact": "https://github.com/jasimalrawie",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--audio --system-nowplaying",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
