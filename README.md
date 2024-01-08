@@ -1,3 +1,7 @@
+
+![prev](prev.png "legendary cursor")
+
+
 # legendary cursor lively-wallpaper
 legendary cursor for lively wallpaper 
 
